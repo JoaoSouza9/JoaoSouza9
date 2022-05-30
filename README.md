@@ -17,6 +17,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/joao-souza98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/JoaoSouza9/JoaoSouza9/blob/output/github-snake-dark.svg?palette=github-dark)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoSouza9/JoaoSouza9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoSouza9/JoaoSouza9/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 </div>
