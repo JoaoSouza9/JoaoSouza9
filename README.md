@@ -4,10 +4,6 @@
   <img width=46% align="center" src="https://github-readme-stats-joao-souzas-projects-b85532e2.vercel.app/api?username=JoaoSouza9&show_icons=true&theme=radical&layout=compact" />
  </div>
  
- 
- &nbsp;
- &nbsp;
- 
 ## My Skills
 
 #### Main Stack:
@@ -26,8 +22,7 @@
 
 #### Secondary Stack:
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Studying in this moment:
 
@@ -35,6 +30,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)&nbsp;
 ![Scikit_Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 
 #### Databases:
 
