@@ -1,4 +1,4 @@
-## Oie, eu sou o João Souza, desenvolvedor de software!
+## Olá, eu sou o João Souza, desenvolvedor de software!
 <div align="center">
   <a href="https://github.com/JoaoSouza9">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoSouza9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
