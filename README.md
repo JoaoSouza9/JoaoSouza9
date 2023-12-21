@@ -1,7 +1,7 @@
 ## Olá, eu sou João Souza, desenvolvedor de software!
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoSouza9&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="[github-readme-stats-git-main-JoaoSouza9.vercel.app](https://github-readme-stats-joao-souzas-projects-b85532e2.vercel.app/)/api/top-langs/username=JoaoSouza9&show_icons=true&theme=radical&layout=compact" />
+  <img width=40% align="center" src="https://github-readme-stats-joao-souzas-projects-b85532e2.vercel.app//api/top-langs/username=JoaoSouza9&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  
